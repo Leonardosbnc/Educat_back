@@ -1,0 +1,16 @@
+{
+  "name": "raeducat",
+  "version": "1.0.0",
+  "author": "Leonardo_Matheus",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "sql": "^0.78.0",
+    "tedious": "^9.2.1"
+  },
+  "scripts": {
+    "start": "node src/app.js"
+  }
+}
